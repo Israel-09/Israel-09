@@ -2,6 +2,7 @@
 <h3 align="center">A motivated software engineer from Nigeria</h3>
 
 - 🌱 I’m currently learning **Flask, Fabric, Puppet**
+- 📚 Currently reading Software Engineering_A Practitioner’s Approach by Roger S. Pressman & Bruce R. Maxin
 
 - 📝 I regularly write articles on [medium](medium)
 
