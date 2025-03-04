@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Inene Israel</h1>
 <h3 align="center">A motivated software engineer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Flask, Fabric, Puppet**
+- 🌱 I’m currently learning **System Design**
 - 📚 Currently reading Software Engineering_A Practitioner’s Approach by Roger S. Pressman & Bruce R. Maxin
 
 - 📝 I regularly write articles on [medium](medium)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Javascript**
 
 - 📫 How to reach me **israelinene91@gmail.com**
 
